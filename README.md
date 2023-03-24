@@ -1,1 +1,1 @@
-Simple CPU 3D renderer using the painter's algorithm.
+Simple CPU 3D renderer using only Java Graphics2D and the painter's algorithm.
